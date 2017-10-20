@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpaceTravel</string>
+    <string name="log_out">Logging out...</string>
+
+</resources>
